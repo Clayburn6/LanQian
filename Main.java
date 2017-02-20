@@ -1,2 +1,0 @@
-# LanQian
-some eazy code
